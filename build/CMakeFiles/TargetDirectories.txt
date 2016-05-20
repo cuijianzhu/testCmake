@@ -1,0 +1,2 @@
+/home/sloan/code/testCmake/build/lib/CMakeFiles/hello.dir
+/home/sloan/code/testCmake/build/CMakeFiles/main.dir
