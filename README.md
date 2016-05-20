@@ -3,6 +3,7 @@ used to learn how to write CMake
 
 ### pre knowledge
 you can get cmake tutorial from: http://blog.csdn.net/fan_hai_ping/article/details/42524205
+
 you can get info about this project from blog: http://blog.csdn.net/sloanqin/article/details/51462250
  
 ### instructions
