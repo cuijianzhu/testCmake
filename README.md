@@ -9,9 +9,10 @@ you can get cmake tutorial from: http://blog.csdn.net/fan_hai_ping/article/detai
 
 ### demo
 
+```Shell
 cd build
 cmake ../
 make 
 
-../bin/main
-#you will get hello
+../bin/main  #you will get hello
+```
